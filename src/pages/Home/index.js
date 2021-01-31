@@ -7,7 +7,7 @@ export default function Home() {
     <Container>
       <Content>
         <Title>Hello World</Title>
-        <SubTitle>Lucas Freitas</SubTitle>
+        <SubTitle>Junior Cintra</SubTitle>
       </Content>
     </Container>
   );
