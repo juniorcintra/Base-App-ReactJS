@@ -1,4 +1,4 @@
-import { all, takeLatest } from "redux-saga/effects";
+import { all } from "redux-saga/effects";
 
 // import { NoticiaTypes } from "~/store/ducks/noticia";
 // import { fetch as fetchNoticia } from "./noticia";
