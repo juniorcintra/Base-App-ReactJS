@@ -1,7 +1,14 @@
 import React from "react";
 
-import Menu from "../../components/Menu";
+import { Container, Content, Title, SubTitle } from "./styles";
 
 export default function Home() {
-  return <Menu />;
+  return (
+    <Container>
+      <Content>
+        <Title>Hello World</Title>
+        <SubTitle>Lucas Freitas</SubTitle>
+      </Content>
+    </Container>
+  );
 }
